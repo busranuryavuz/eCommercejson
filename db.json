@@ -1,14 +1,7 @@
 
 {
   "posts":[
-      {
-        "SepetID": 2,
-        "UrunID": 0,
-        "UrunAdi": "Yogurt",
-        "UrunFiyati": 0.0,
-        "ToplamFiyat": 40.0,
-        "Adet": 2
-    }
+  {"id": 1, "title": "Post 1 ", "description": "this is description 1"}
 ],
 "comments":[
   {"id": 1, "body": "comment 1", "postId": 1}

@@ -1,5 +1,7 @@
+
 {
-{
+  "posts":[
+      {
         "SepetID": 2,
         "UrunID": 0,
         "UrunAdi": "Yogurt",
@@ -7,5 +9,12 @@
         "ToplamFiyat": 40.0,
         "Adet": 2
     }
-}
+],
+"comments":[
+  {"id": 1, "body": "comment 1", "postId": 1}
     
+],
+"profile": {
+  "name": "Profile 1"
+}
+}

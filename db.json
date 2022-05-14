@@ -1,12 +1,92 @@
 {
-  "posts":[
-  {"id": 1, "title": "Post 1 ", "description": "this is description 1"}
-],
-"comments":[
-  {"id": 1, "body": "comment 1", "postId": 1}
-    
-],
-"profile": {
-  "name": "Profile 1"
-}
+[
+    {
+        "SepetID": 2,
+        "UrunID": 0,
+        "UrunAdi": "Yogurt",
+        "UrunFiyati": 0.0,
+        "ToplamFiyat": 40.0,
+        "Adet": 2
+    },
+    {
+        "SepetID": 6,
+        "UrunID": 0,
+        "UrunAdi": "Yumurta",
+        "UrunFiyati": 0.0,
+        "ToplamFiyat": 42.5,
+        "Adet": 1
+    },
+    {
+        "SepetID": 7,
+        "UrunID": 0,
+        "UrunAdi": "Kaymak",
+        "UrunFiyati": 0.0,
+        "ToplamFiyat": 20.0,
+        "Adet": 1
+    },
+    {
+        "SepetID": 9,
+        "UrunID": 0,
+        "UrunAdi": "Mayonez",
+        "UrunFiyati": 0.0,
+        "ToplamFiyat": 23.0,
+        "Adet": 1
+    },
+    {
+        "SepetID": 10,
+        "UrunID": 0,
+        "UrunAdi": "Peynir",
+        "UrunFiyati": 0.0,
+        "ToplamFiyat": 40.0,
+        "Adet": 1
+    },
+    {
+        "SepetID": 11,
+        "UrunID": 0,
+        "UrunAdi": "Ekmek",
+        "UrunFiyati": 0.0,
+        "ToplamFiyat": 6.0,
+        "Adet": 2
+    },
+    {
+        "SepetID": 12,
+        "UrunID": 0,
+        "UrunAdi": "Kola",
+        "UrunFiyati": 0.0,
+        "ToplamFiyat": 11.0,
+        "Adet": 1
+    },
+    {
+        "SepetID": 13,
+        "UrunID": 0,
+        "UrunAdi": "Soda",
+        "UrunFiyati": 0.0,
+        "ToplamFiyat": 15.0,
+        "Adet": 6
+    },
+    {
+        "SepetID": 14,
+        "UrunID": 0,
+        "UrunAdi": "Domates",
+        "UrunFiyati": 0.0,
+        "ToplamFiyat": 25.0,
+        "Adet": 1
+    },
+    {
+        "SepetID": 1015,
+        "UrunID": 0,
+        "UrunAdi": "Havuç",
+        "UrunFiyati": 0.0,
+        "ToplamFiyat": 30.0,
+        "Adet": 5
+    },
+    {
+        "SepetID": 1016,
+        "UrunID": 0,
+        "UrunAdi": "Erik",
+        "UrunFiyati": 0.0,
+        "ToplamFiyat": 60.0,
+        "Adet": 3
+    }
+]
 }
